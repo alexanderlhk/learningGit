@@ -1,0 +1,2 @@
+# First personal Github project
+This is my personal space for developing web and mobile applications, and relearning web and mobile development in order to be self sufficient in full-stack web and mobile development to build projects and to explore ideas.git 
